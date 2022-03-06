@@ -6,7 +6,4 @@ apple
  cherris 
  Carrots
  
- new added items 
- avocados 
- removed items 
- how ever 
+ 
