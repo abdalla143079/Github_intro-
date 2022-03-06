@@ -6,8 +6,7 @@ apple
  cherris 
  Carrots
  
- serial (new item )
- form jake 
- pottato 
- etc
- 
+ new added items 
+ avocados 
+ removed items 
+ how ever 
